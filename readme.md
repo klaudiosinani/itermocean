@@ -21,7 +21,7 @@ Itermocean
 
 ## Install
 
-- Right-click [`itermocean.itermcolors`]() and choose `Save Link As`.
+- Right-click [`itermocean.itermcolors`](https://raw.githubusercontent.com/klaussinani/itermocean/master/itermocean.itermcolors) and choose `Save Link As`.
 - Double-click the downloaded file.
 
 ## Extra
