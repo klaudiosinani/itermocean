@@ -21,7 +21,7 @@ Itermocean
 
 ## Install
 
-- Right-click [`itermocean.itermcolors`](https://raw.githubusercontent.com/klaussinani/itermocean/master/itermocean.itermcolors) and choose `Save Link As`.
+- Right-click [`itermocean.itermcolors`](https://raw.githubusercontent.com/klaudiosinani/itermocean/master/itermocean.itermcolors) and choose `Save Link As`.
 - Double-click the downloaded file.
 
 ## Extra
@@ -30,13 +30,13 @@ To get the exact same look, install the [JetBrains Mono](https://www.jetbrains.c
 
 ## Related
 
-- [hyperocean](https://github.com/klaussinani/hyperocean) - Hyper Terminal version
+- [hyperocean](https://github.com/klaudiosinani/hyperocean) - Hyper Terminal version
 - [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
-- [oceandock](https://github.com/klaussinani/oceandock) - Plank dock version
+- [oceandock](https://github.com/klaudiosinani/oceandock) - Plank dock version
 
 ## Team
 
-- Klaus Sinani ([@klaussinani](https://github.com/klaussinani))
+- Klaudio Sinani ([@klaudiosinani](https://github.com/klaudiosinani))
 
 ## License
 
